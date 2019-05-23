@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web3/static/css/main.1fb8b563.chunk.css",
+    "main.css": "/web3/static/css/main.84602749.chunk.css",
     "main.js": "/web3/static/js/main.fb0ec33d.chunk.js",
     "main.js.map": "/web3/static/js/main.fb0ec33d.chunk.js.map",
     "runtime~main.js": "/web3/static/js/runtime~main.e271968f.js",
@@ -8,8 +8,8 @@
     "static/js/2.65aa1cca.chunk.js": "/web3/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/web3/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/web3/index.html",
-    "precache-manifest.ff5b636a1932b1154129ba6a57acf994.js": "/web3/precache-manifest.ff5b636a1932b1154129ba6a57acf994.js",
+    "precache-manifest.4c9e7c01d65e20e86c3f7dc6e3fb3d46.js": "/web3/precache-manifest.4c9e7c01d65e20e86c3f7dc6e3fb3d46.js",
     "service-worker.js": "/web3/service-worker.js",
-    "static/css/main.1fb8b563.chunk.css.map": "/web3/static/css/main.1fb8b563.chunk.css.map"
+    "static/css/main.84602749.chunk.css.map": "/web3/static/css/main.84602749.chunk.css.map"
   }
 }
